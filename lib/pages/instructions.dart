@@ -19,7 +19,7 @@ class _InstructionsState extends State<Instructions> {
               height: 660,
               decoration: const BoxDecoration(
                   image: DecorationImage(
-                      image: AssetImage("assets/howTo.png"),
+                      image: AssetImage("assets/guide.png"),
                       fit: BoxFit.cover
                   )
               ),
