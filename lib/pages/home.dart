@@ -14,7 +14,7 @@ class _aidProjectState extends State<aidProject> {
           title: Text('AID'),
           // backgroundColor: ',
           leading: IconButton(
-            icon: Image.asset('assets/logo.jpg'),
+            icon: Image.asset('assets/doodles.jpg'),
             onPressed: () { },
           ),
           actions: <Widget>[
